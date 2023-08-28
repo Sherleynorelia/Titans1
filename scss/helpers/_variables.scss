@@ -18,7 +18,11 @@ $screen-xl-min: 1200px;
 
 // Colors vars
 :root {
-  --black: #000000;
-  --white: #ffffff;
+  -font-inter: Inter;
+  --font-inherit: inherit;
+  --font-size-17xl: 36px;
+  --color-white: #fff;
+  --color-black: #000;
+  --color-skyblue: #77bfcf;
 }
 

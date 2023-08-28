@@ -11,8 +11,12 @@ html {
     Variables
 ============= */
 :root {
-  --black: #000000;
-  --white: #ffffff;
+  -font-inter: Inter;
+  --font-inherit: inherit;
+  --font-size-17xl: 36px;
+  --color-white: #fff;
+  --color-black: #000;
+  --color-skyblue: #77bfcf;
 }
 
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
