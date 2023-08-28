@@ -335,7 +335,7 @@ template {
 /* =============
     Base
 ============= */
-home-page {
+.home-page {
   background-color: #ffffff;
   display: -webkit-box;
   display: -ms-flexbox;
