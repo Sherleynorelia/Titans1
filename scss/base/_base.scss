@@ -698,3 +698,1269 @@
   top: 0;
   left: 0;
 }
+.settings {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.settings .div {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 1831px;
+  position: relative;
+}
+
+.settings .overlap {
+  position: absolute;
+  width: 1440px;
+  height: 634px;
+  top: 1197px;
+  left: 0;
+}
+
+.settings .footer {
+  position: absolute;
+  width: 1440px;
+  height: 629px;
+  top: 5px;
+  left: 0;
+  background-color: #77bfcf;
+}
+
+.settings .LOGO {
+  position: absolute;
+  width: 102px;
+  height: 167px;
+  top: 217px;
+  left: 1276px;
+}
+
+.settings .overlap-group {
+  position: relative;
+  width: 88px;
+  height: 163px;
+  top: 4px;
+  left: 7px;
+}
+
+.settings .overlap-group-2 {
+  position: absolute;
+  width: 85px;
+  height: 163px;
+  top: 0;
+  left: 1px;
+}
+
+.settings .rectangle {
+  position: absolute;
+  width: 26px;
+  height: 151px;
+  top: 12px;
+  left: 29px;
+  background-color: #00738c;
+}
+
+.settings .rectangle-2 {
+  position: absolute;
+  width: 12px;
+  height: 85px;
+  top: -36px;
+  left: 36px;
+  background-color: #00738c;
+  transform: rotate(-89.77deg);
+}
+
+.settings .polygon {
+  left: 74px;
+  position: absolute;
+  width: 14px;
+  height: 15px;
+  top: 0;
+}
+
+.settings .img {
+  left: 0;
+  position: absolute;
+  width: 14px;
+  height: 15px;
+  top: 0;
+}
+
+.settings .overlap-wrapper {
+  position: absolute;
+  width: 99px;
+  height: 139px;
+  top: 224px;
+  left: 1252px;
+}
+
+.settings .overlap-2 {
+  position: relative;
+  width: 86px;
+  height: 136px;
+  top: 3px;
+  left: 7px;
+}
+
+.settings .overlap-3 {
+  position: absolute;
+  width: 83px;
+  height: 136px;
+  top: 0;
+  left: 1px;
+}
+
+.settings .rectangle-3 {
+  position: absolute;
+  width: 25px;
+  height: 126px;
+  top: 10px;
+  left: 29px;
+  background-color: #ff902e;
+}
+
+.settings .rectangle-4 {
+  position: absolute;
+  width: 10px;
+  height: 82px;
+  top: -36px;
+  left: 36px;
+  background-color: #ff902e;
+  transform: rotate(-89.73deg);
+}
+
+.settings .polygon-2 {
+  position: absolute;
+  width: 13px;
+  height: 12px;
+  top: 0;
+  left: 72px;
+}
+
+.settings .polygon-3 {
+  position: absolute;
+  width: 13px;
+  height: 12px;
+  top: 0;
+  left: 0;
+}
+
+.settings .get-to-know-us {
+  position: absolute;
+  top: 100px;
+  left: 60px;
+  font-family: "Noto Sans-SemiBold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.settings .text-wrapper {
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.settings .span {
+  font-family: "Noto Sans-Regular", Helvetica;
+}
+
+.settings .need-help-your {
+  position: absolute;
+  width: 420px;
+  top: 86px;
+  left: 429px;
+  font-family: "Noto Sans-SemiBold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.settings .contact-infotitians {
+  position: absolute;
+  top: 89px;
+  left: 892px;
+  font-family: "Noto Sans-SemiBold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.settings .line {
+  position: absolute;
+  width: 1440px;
+  height: 11px;
+  top: 469px;
+  left: 0;
+}
+
+.settings .rectangle-5 {
+  position: absolute;
+  width: 1440px;
+  height: 154px;
+  top: 480px;
+  left: 0;
+  background-color: #ff902e;
+}
+
+.settings .conditions-of {
+  position: absolute;
+  top: 512px;
+  left: 158px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.settings .text-wrapper-2 {
+  text-decoration: underline;
+}
+
+.settings .text-wrapper-3 {
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 0;
+}
+
+.settings .line-2 {
+  position: absolute;
+  width: 5px;
+  height: 226px;
+  top: 125px;
+  left: 420px;
+  object-fit: cover;
+}
+
+.settings .line-3 {
+  position: absolute;
+  width: 5px;
+  height: 226px;
+  top: 144px;
+  left: 845px;
+  object-fit: cover;
+}
+
+.settings .line-4 {
+  position: absolute;
+  width: 1440px;
+  height: 5px;
+  top: 0;
+  left: 0;
+}
+
+.settings .line-5 {
+  position: absolute;
+  width: 1440px;
+  height: 5px;
+  top: 233px;
+  left: 0;
+}
+
+.settings .text-wrapper-4 {
+  top: 286px;
+  left: 62px;
+  position: absolute;
+  font-family: "Noto Sans-DisplaySemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.settings .div-wrapper {
+  position: absolute;
+  width: 484px;
+  height: 192px;
+  top: 396px;
+  left: 101px;
+  background-color: #ff902e;
+}
+
+.settings .text-wrapper-5 {
+  position: absolute;
+  top: 78px;
+  left: 104px;
+  font-family: "Noto Sans-DisplaySemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.settings .login-security-wrapper {
+  position: absolute;
+  width: 484px;
+  height: 192px;
+  top: 664px;
+  left: 101px;
+  background-color: #ff902e;
+}
+
+.settings .login-security {
+  position: absolute;
+  top: 69px;
+  left: 94px;
+  font-family: "Noto Sans-DisplaySemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.settings .overlap-4 {
+  position: absolute;
+  width: 484px;
+  height: 192px;
+  top: 952px;
+  left: 101px;
+  background-color: #ff902e;
+}
+
+.settings .text-wrapper-6 {
+  top: 70px;
+  left: 161px;
+  position: absolute;
+  font-family: "Noto Sans-DisplaySemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.settings .overlap-5 {
+  position: absolute;
+  width: 484px;
+  height: 192px;
+  top: 952px;
+  left: 773px;
+  background-color: #ff902e;
+}
+
+.settings .text-wrapper-7 {
+  position: absolute;
+  top: 59px;
+  left: 72px;
+  font-family: "Noto Sans-DisplaySemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.settings .overlap-6 {
+  position: absolute;
+  width: 484px;
+  height: 192px;
+  top: 664px;
+  left: 781px;
+  background-color: #ff902e;
+}
+
+.settings .text-wrapper-8 {
+  position: absolute;
+  top: 52px;
+  left: 181px;
+  font-family: "Noto Sans-DisplaySemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.settings .overlap-7 {
+  position: absolute;
+  width: 484px;
+  height: 192px;
+  top: 396px;
+  left: 781px;
+  background-color: #ff902e;
+}
+
+.settings .text-wrapper-9 {
+  position: absolute;
+  top: 68px;
+  left: 159px;
+  font-family: "Noto Sans-DisplaySemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.settings .group {
+  position: fixed;
+  width: 1440px;
+  height: 238px;
+  top: -3px;
+  left: 0;
+  background-color: #77bfcf;
+}
+
+.settings .group-2 {
+  position: relative;
+  width: 1342px;
+  height: 167px;
+  top: 42px;
+  left: 25px;
+}
+
+.settings .serch-box {
+  position: absolute;
+  width: 532px;
+  height: 84px;
+  top: 59px;
+  left: 576px;
+  background-color: #ffffff;
+}
+
+.settings .overlap-8 {
+  position: absolute;
+  width: 206px;
+  height: 84px;
+  top: 57px;
+  left: 370px;
+  background-color: #00738c;
+}
+
+.settings .text-wrapper-10 {
+  position: absolute;
+  top: 18px;
+  left: 44px;
+  font-family: "Noto Sans SC-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.settings .menu {
+  position: absolute;
+  width: 66px;
+  height: 38px;
+  top: 59px;
+  left: 179px;
+}
+
+.settings .line-6 {
+  position: absolute;
+  width: 66px;
+  height: 10px;
+  top: -10px;
+  left: 0;
+}
+
+.settings .line-7 {
+  position: absolute;
+  width: 66px;
+  height: 10px;
+  top: 8px;
+  left: 0;
+}
+
+.settings .line-8 {
+  position: absolute;
+  width: 66px;
+  height: 10px;
+  top: 28px;
+  left: 0;
+}
+
+.settings .shoping-chart {
+  position: absolute;
+  width: 107px;
+  height: 78px;
+  top: 52px;
+  left: 1233px;
+}
+
+.settings .overlap-9 {
+  position: relative;
+  height: 78px;
+}
+
+.settings .overlap-group-3 {
+  position: absolute;
+  width: 107px;
+  height: 78px;
+  top: 0;
+  left: 0;
+}
+
+.settings .rectangle-6 {
+  position: absolute;
+  width: 72px;
+  height: 45px;
+  top: 22px;
+  left: 0;
+}
+
+.settings .rectangle-7 {
+  position: absolute;
+  width: 13px;
+  height: 62px;
+  top: 0;
+  left: 56px;
+  background-color: #8c4506;
+  transform: rotate(29.09deg);
+}
+
+.settings .rectangle-8 {
+  position: absolute;
+  width: 40px;
+  height: 12px;
+  top: 7px;
+  left: 66px;
+  background-color: #8c4506;
+  transform: rotate(23.03deg);
+}
+
+.settings .ellipse {
+  left: 2px;
+  position: absolute;
+  width: 10px;
+  height: 14px;
+  top: 66px;
+  background-color: #8c4506;
+  border-radius: 4.9px/7.07px;
+  transform: rotate(-89.51deg);
+}
+
+.settings .ellipse-2 {
+  left: 57px;
+  position: absolute;
+  width: 10px;
+  height: 14px;
+  top: 66px;
+  background-color: #8c4506;
+  border-radius: 4.9px/7.07px;
+  transform: rotate(-89.51deg);
+}
+
+.settings .rectangle-9 {
+  position: absolute;
+  width: 31px;
+  height: 5px;
+  top: 71px;
+  left: 18px;
+  background-color: #8c4506;
+}
+
+.settings .overlap-10 {
+  position: absolute;
+  width: 114px;
+  height: 167px;
+  top: 0;
+  left: 0;
+}
+
+.settings .overlap-group-wrapper {
+  position: absolute;
+  width: 102px;
+  height: 167px;
+  top: 0;
+  left: 12px;
+}
+
+.settings .LOGO-2 {
+  position: absolute;
+  width: 99px;
+  height: 139px;
+  top: 10px;
+  left: 0;
+}
+.chart {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.chart .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 2168px;
+  position: relative;
+}
+
+.chart .overlap {
+  position: absolute;
+  width: 1440px;
+  height: 950px;
+  top: 1570px;
+  left: 0;
+  background-color: #77bfcf;
+}
+
+.chart .overlap-group {
+  position: absolute;
+  width: 114px;
+  height: 167px;
+  top: 177px;
+  left: 1237px;
+}
+
+.chart .LOGO {
+  position: absolute;
+  width: 102px;
+  height: 167px;
+  top: 0;
+  left: 12px;
+}
+
+.chart .overlap-2 {
+  position: relative;
+  width: 88px;
+  height: 163px;
+  top: 4px;
+  left: 7px;
+}
+
+.chart .overlap-group-2 {
+  position: absolute;
+  width: 85px;
+  height: 163px;
+  top: 0;
+  left: 1px;
+}
+
+.chart .rectangle {
+  position: absolute;
+  width: 26px;
+  height: 151px;
+  top: 12px;
+  left: 29px;
+  background-color: #00738c;
+}
+
+.chart .rectangle-2 {
+  position: absolute;
+  width: 12px;
+  height: 85px;
+  top: -36px;
+  left: 36px;
+  background-color: #00738c;
+  transform: rotate(-89.77deg);
+}
+
+.chart .polygon {
+  left: 74px;
+  position: absolute;
+  width: 14px;
+  height: 15px;
+  top: 0;
+}
+
+.chart .img {
+  left: 0;
+  position: absolute;
+  width: 14px;
+  height: 15px;
+  top: 0;
+}
+
+.chart .overlap-wrapper {
+  position: absolute;
+  width: 99px;
+  height: 139px;
+  top: 10px;
+  left: 0;
+}
+
+.chart .overlap-3 {
+  position: relative;
+  width: 86px;
+  height: 136px;
+  top: 3px;
+  left: 7px;
+}
+
+.chart .overlap-4 {
+  position: absolute;
+  width: 83px;
+  height: 136px;
+  top: 0;
+  left: 1px;
+}
+
+.chart .rectangle-3 {
+  position: absolute;
+  width: 25px;
+  height: 126px;
+  top: 10px;
+  left: 29px;
+  background-color: #ff902e;
+}
+
+.chart .rectangle-4 {
+  position: absolute;
+  width: 10px;
+  height: 82px;
+  top: -36px;
+  left: 36px;
+  background-color: #ff902e;
+  transform: rotate(-89.73deg);
+}
+
+.chart .polygon-2 {
+  position: absolute;
+  width: 13px;
+  height: 12px;
+  top: 0;
+  left: 72px;
+}
+
+.chart .polygon-3 {
+  position: absolute;
+  width: 13px;
+  height: 12px;
+  top: 0;
+  left: 0;
+}
+
+.chart .get-to-know-us {
+  position: absolute;
+  top: 45px;
+  left: 92px;
+  font-family: "Noto Sans-SemiBold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.chart .text-wrapper {
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.chart .span {
+  font-family: "Noto Sans-Regular", Helvetica;
+}
+
+.chart .overlap-5 {
+  position: absolute;
+  width: 421px;
+  height: 356px;
+  top: 43px;
+  left: 429px;
+}
+
+.chart .need-help-your {
+  position: absolute;
+  width: 420px;
+  top: 0;
+  left: 0;
+  font-family: "Noto Sans-SemiBold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.chart .line {
+  position: absolute;
+  width: 5px;
+  height: 226px;
+  top: 75px;
+  left: 416px;
+  object-fit: cover;
+}
+
+.chart .contact-infotitians {
+  position: absolute;
+  top: 57px;
+  left: 906px;
+  font-family: "Noto Sans-SemiBold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.chart .overlap-6 {
+  position: absolute;
+  width: 1440px;
+  height: 161px;
+  top: 437px;
+  left: 0;
+}
+
+.chart .line-2 {
+  position: absolute;
+  width: 1440px;
+  height: 11px;
+  top: 0;
+  left: 0;
+}
+
+.chart .rectangle-5 {
+  position: absolute;
+  width: 1440px;
+  height: 154px;
+  top: 7px;
+  left: 0;
+  background-color: #ff902e;
+}
+
+.chart .conditions-of {
+  position: absolute;
+  top: 35px;
+  left: 179px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.chart .text-wrapper-2 {
+  text-decoration: underline;
+}
+
+.chart .text-wrapper-3 {
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 0;
+}
+
+.chart .line-3 {
+  position: absolute;
+  width: 5px;
+  height: 226px;
+  top: 107px;
+  left: 424px;
+  object-fit: cover;
+}
+
+.chart .line-4 {
+  position: absolute;
+  width: 1440px;
+  height: 5px;
+  top: 0;
+  left: 0;
+}
+
+.chart .line-5 {
+  position: absolute;
+  width: 1440px;
+  height: 5px;
+  top: 233px;
+  left: 0;
+}
+
+.chart .p {
+  position: absolute;
+  top: 309px;
+  left: 130px;
+  font-family: "Noto Sans-DisplaySemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.chart .text-wrapper-4 {
+  position: absolute;
+  top: 921px;
+  left: 142px;
+  font-family: "Noto Sans-DisplaySemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.chart .overlap-7 {
+  position: absolute;
+  width: 1200px;
+  height: 391px;
+  top: 460px;
+  left: 116px;
+  background-image: url(./img/whats-fresh-2.svg);
+  background-size: 100% 100%;
+}
+
+.chart .line-6 {
+  position: absolute;
+  width: 1049px;
+  height: 5px;
+  top: 82px;
+  left: 82px;
+}
+
+.chart .line-7 {
+  position: absolute;
+  width: 1049px;
+  height: 13px;
+  top: 266px;
+  left: 82px;
+}
+
+.chart .text-wrapper-5 {
+  position: absolute;
+  top: 308px;
+  left: 878px;
+  font-family: "Noto Sans-DisplaySemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.chart .overlap-8 {
+  position: absolute;
+  width: 1200px;
+  height: 467px;
+  top: 1028px;
+  left: 116px;
+  background-image: url(./img/whats-fresh.svg);
+  background-size: 100% 100%;
+}
+
+.chart .overlap-9 {
+  position: absolute;
+  width: 324px;
+  height: 53px;
+  top: 386px;
+  left: 26px;
+}
+
+.chart .rectangle-6 {
+  position: absolute;
+  width: 324px;
+  height: 52px;
+  top: 1px;
+  left: 0;
+  background-color: #d9d9d903;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.chart .text-wrapper-6 {
+  left: 49px;
+  position: absolute;
+  top: 0;
+  font-family: "Noto Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.chart .overlap-10 {
+  position: absolute;
+  width: 324px;
+  height: 53px;
+  top: 386px;
+  left: 423px;
+}
+
+.chart .text-wrapper-7 {
+  left: 48px;
+  position: absolute;
+  top: 0;
+  font-family: "Noto Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.chart .overlap-11 {
+  position: absolute;
+  width: 324px;
+  height: 53px;
+  top: 386px;
+  left: 819px;
+}
+
+.chart .rectangle-7 {
+  position: absolute;
+  width: 330px;
+  height: 320px;
+  top: 45px;
+  left: 26px;
+  background-color: #d9d9d9;
+}
+
+.chart .rectangle-8 {
+  position: absolute;
+  width: 330px;
+  height: 320px;
+  top: 45px;
+  left: 423px;
+  background-color: #d9d9d9;
+}
+
+.chart .rectangle-9 {
+  position: absolute;
+  width: 330px;
+  height: 320px;
+  top: 45px;
+  left: 819px;
+  background-color: #d9d9d9;
+}
+
+.chart .group {
+  position: fixed;
+  width: 1440px;
+  height: 238px;
+  top: -3px;
+  left: 0;
+  background-color: #77bfcf;
+}
+
+.chart .group-2 {
+  position: relative;
+  width: 1342px;
+  height: 167px;
+  top: 42px;
+  left: 25px;
+}
+
+.chart .serch-box {
+  position: absolute;
+  width: 532px;
+  height: 84px;
+  top: 59px;
+  left: 576px;
+  background-color: #ffffff;
+}
+
+.chart .div-wrapper {
+  position: absolute;
+  width: 206px;
+  height: 84px;
+  top: 57px;
+  left: 370px;
+  background-color: #00738c;
+}
+
+.chart .text-wrapper-8 {
+  position: absolute;
+  top: 18px;
+  left: 44px;
+  font-family: "Noto Sans SC-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.chart .menu {
+  position: absolute;
+  width: 66px;
+  height: 38px;
+  top: 59px;
+  left: 179px;
+}
+
+.chart .line-8 {
+  position: absolute;
+  width: 66px;
+  height: 10px;
+  top: -10px;
+  left: 0;
+}
+
+.chart .line-9 {
+  position: absolute;
+  width: 66px;
+  height: 10px;
+  top: 8px;
+  left: 0;
+}
+
+.chart .line-10 {
+  position: absolute;
+  width: 66px;
+  height: 10px;
+  top: 28px;
+  left: 0;
+}
+
+.chart .shoping-chart {
+  position: absolute;
+  width: 107px;
+  height: 78px;
+  top: 52px;
+  left: 1233px;
+}
+
+.chart .overlap-12 {
+  position: relative;
+  height: 78px;
+}
+
+.chart .overlap-group-3 {
+  position: absolute;
+  width: 107px;
+  height: 78px;
+  top: 0;
+  left: 0;
+}
+
+.chart .rectangle-10 {
+  position: absolute;
+  width: 72px;
+  height: 45px;
+  top: 22px;
+  left: 0;
+}
+
+.chart .rectangle-11 {
+  position: absolute;
+  width: 13px;
+  height: 62px;
+  top: 0;
+  left: 56px;
+  background-color: #8c4506;
+  transform: rotate(29.09deg);
+}
+
+.chart .rectangle-12 {
+  position: absolute;
+  width: 40px;
+  height: 12px;
+  top: 7px;
+  left: 66px;
+  background-color: #8c4506;
+  transform: rotate(23.03deg);
+}
+
+.chart .ellipse {
+  left: 2px;
+  position: absolute;
+  width: 10px;
+  height: 14px;
+  top: 66px;
+  background-color: #8c4506;
+  border-radius: 4.9px/7.07px;
+  transform: rotate(-89.51deg);
+}
+
+.chart .ellipse-2 {
+  left: 57px;
+  position: absolute;
+  width: 10px;
+  height: 14px;
+  top: 66px;
+  background-color: #8c4506;
+  border-radius: 4.9px/7.07px;
+  transform: rotate(-89.51deg);
+}
+
+.chart .rectangle-13 {
+  position: absolute;
+  width: 31px;
+  height: 5px;
+  top: 71px;
+  left: 18px;
+  background-color: #8c4506;
+}
+
+.chart .overlap-13 {
+  position: absolute;
+  width: 114px;
+  height: 167px;
+  top: 0;
+  left: 0;
+}
+.nvagation {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.nvagation .overlap-group-wrapper {
+  background-color: #ffffff;
+  width: 576px;
+  height: 896px;
+}
+
+.nvagation .overlap-group {
+  position: relative;
+  height: 896px;
+  background-color: #00738c;
+}
+
+.nvagation .line {
+  top: 167px;
+  position: absolute;
+  width: 504px;
+  height: 5px;
+  left: 36px;
+}
+
+.nvagation .img {
+  top: 279px;
+  position: absolute;
+  width: 504px;
+  height: 5px;
+  left: 36px;
+}
+
+.nvagation .line-2 {
+  top: 425px;
+  position: absolute;
+  width: 504px;
+  height: 5px;
+  left: 36px;
+}
+
+.nvagation .text-wrapper {
+  position: absolute;
+  top: 87px;
+  left: 51px;
+  font-family: "Noto Sans-DisplaySemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
