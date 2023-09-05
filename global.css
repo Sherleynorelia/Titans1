@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-noto-sans-sc: "Noto Sans SC";
+  --font-inter: Inter;
+  --font-inherit: inherit;
+  --font-noto-sans: "Noto Sans";
+
+  /* font sizes */
+  --font-size-17xl: 36px;
+  --font-size-5xl: 24px;
+  --font-size-21xl: 40px;
+  --font-size-29xl: 48px;
+  --font-size-45xl: 64px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-teal: #00738c;
+  --color-skyblue: #77bfcf;
+  --color-black: #000;
+  --color-darkorange: #ff902e;
+  --color-gainsboro-100: #d9d9d9;
+
+  /* Paddings */
+  --padding-29xl: 48px;
+}
