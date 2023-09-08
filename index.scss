@@ -1,4 +1,4 @@
-.home{
+.home{ 
     background-color: var(--color-antiquewhite);
     text-align: center;
     font-size: var(--font-size-29xl);
@@ -9,4 +9,20 @@
     position: relative;
     overflow: hidden;
 }
+    
+    :root {
+        --font-noto-sans-sc: "Noto Sans SC";
+        --font-noto-sans: "Noto Sans";
+        --font-inter: Inter;
+        --font-size-13xl: 32px;
+        --font-size-29xl: 48px;
+        --font-size-21xl: 40px;
+        --font-size-17xl: 36px;
+        --font-size-45xl: 64px;
+        --color-antiquewhite: #ffe9d5;
+        --color-black: #000;
+        --color-skyblue: #77bfcf;
+        --color-darkorange: #ff902e;
+    }
+       
 
