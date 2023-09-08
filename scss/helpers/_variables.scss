@@ -2,105 +2,27 @@
     Variables
 ============= */
 
-/* Define custom properties (variables) for your styles */
-:root {
-  --primary-color: #007BFF;
-  --secondary-color: #6C757D;
-  --background-color: #f4f4f4;
-  --text-color: #333;
-  --heading-font-size: 24px;
-  --body-font-size: 16px;
-}
-
-/* Reset some default styles */
-body, h1, h2, p, ul, li, button {
-  margin: 0;
-  padding: 0;
-}
-
-/* Apply styles using custom properties */
 body {
-  font-family: Arial, sans-serif;
-  background-color: var(--background-color);
-  color: var(--text-color);
+  margin: 0;
+  line-height: normal;
 }
 
-/* Header styles */
-header {
-  background-color: var(--primary-color);
-  color: #fff;
-  text-align: center;
-  padding: 20px 0;
-}
+:root {
+  /* fonts */
+  --font-noto-sans-sc: "Noto Sans SC";
+  --font-noto-sans: "Noto Sans";
+  --font-inter: Inter;
 
-header h1 {
-  font-size: var(--heading-font-size);
-}
+  /* font sizes */
+  --font-size-13xl: 32px;
+  --font-size-21xl: 40px;
+  --font-size-29xl: 48px;
+  --font-size-17xl: 36px;
+  --font-size-45xl: 64px;
 
-/* Navigation styles */
-nav ul {
-  list-style: none;
-}
-
-nav ul li {
-  display: inline;
-  margin-right: 20px;
-}
-
-nav a {
-  text-decoration: none;
-  color: #fff;
-}
-
-/* Product section styles */
-.main {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  margin: 20px;
-}
-
-.product {
-  background-color: #fff;
-  border: 1px solid var(--secondary-color);
-  margin: 10px;
-  padding: 20px;
-  text-align: center;
-  max-width: 300px;
-  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
-}
-
-.product img {
-  max-width: 100%;
-  height: auto;
-}
-
-.product h2 {
-  font-size: var(--heading-font-size);
-  margin: 10px 0;
-}
-
-.product p {
-  font-size: var(--body-font-size);
-}
-
-.product button {
-  background-color: var(--primary-color);
-  color: #fff;
-  border: none;
-  padding: 10px 20px;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
-}
-
-.product button:hover {
-  background-color: var(--secondary-color);
-}
-
-/* Footer styles */
-footer {
-  background-color: var(--primary-color);
-  color: #fff;
-  text-align: center;
-  padding: 10px 0;
+  /* Colors */
+  --color-antiquewhite: #ffe9d5;
+  --color-black: #000;
+  --color-skyblue: #77bfcf;
+  --color-darkorange: #ff902e;
 }
